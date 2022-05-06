@@ -31,13 +31,13 @@ export default class App extends Component {
                 }>add1</button>
                 <button onClick={
                     this.handleClick2.bind(this)
-                }>add2</button>
+                }>add2-不推荐这种写法</button>
                 <button onClick={
                     this.handleClick3
-                }>add3</button>
+                }>add3-推荐</button>
                  <button onClick={
-                    ()=>{this.handleClick4()}
-                }>add4</button>
+                    ()=>this.handleClick4()
+                }>add4-传参推荐</button>
             </div>
         )
     }
