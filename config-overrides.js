@@ -5,7 +5,7 @@
  * @Email: 791281470@qq.com
  * @LastEditors: whj0117
  */
-// const { override, fixBabelImports, addDecoratorsLegacy } = require('customize-cra');
+const { override, fixBabelImports, addDecoratorsLegacy } = require('customize-cra');
 // override生成webpack配置对象
 module.exports = override(
     // 针对antd 实现按需打包：根据import来打包 (使用babel-plugin-import)
