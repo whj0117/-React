@@ -1,0 +1,471 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 5901,
+                "name": "新蝙蝠侠",
+                "poster": "https://pic.maizuo.com/usr/movie/a520cd29e1672a0a4115f9de3887f6f4.jpg",
+                "actors": [
+                    {
+                        "name": "马特·里夫斯",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/165573d01ffb19a4455ad9572023704f.jpg"
+                    },
+                    {
+                        "name": "罗伯特·帕丁森",
+                        "role": "Bruce Wayne / Batman",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e89689d04cabdd63a0c851a5ce9af93b.jpg"
+                    },
+                    {
+                        "name": "佐伊·克拉维兹",
+                        "role": "猫女",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c73c9973853b590a097f154232534509.jpg"
+                    },
+                    {
+                        "name": "科林·法瑞尔",
+                        "role": "Oswald Cobblepot / The Penguin",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3be2bb3d7f84dc0d39cde92dcc459ba7.jpg"
+                    },
+                    {
+                        "name": "保罗·达诺",
+                        "role": "Edward Nashton / The Riddler",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/849a100e5bf627a4515cef6e34f1e2ba.jpg"
+                    }
+                ],
+                "director": "马特·里夫斯",
+                "category": "动作|剧情|科幻",
+                "synopsis": "布鲁斯·韦恩化身蝙蝠侠于哥谭市行侠仗义两年后，罪犯皆闻风丧胆，他也因此深入接触到哥谭市的阴暗面。他潜行于哥谭市腐败的政要名流关系网中，身边仅有的几个值得信赖的盟友——管家阿尔弗雷德·潘尼沃斯与詹姆斯·戈登警长。这位独行的“义警侠探”在哥谭市民心中已成为“复仇”二字最当仁不让的代名词。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1647561600,
+                "timeType": 3,
+                "runtime": 175,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5832,
+                "name": "邓小平小道",
+                "poster": "https://pic.maizuo.com/usr/movie/528d9ee46444447c79c3216261d86ec7.jpg",
+                "actors": [
+                    {
+                        "name": "雷献禾",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fceab5985d6e39c6b95564be221fc59c.jpg"
+                    },
+                    {
+                        "name": "卢奇",
+                        "role": "联合导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b3f857cf47dcf4b758c65898b9537a85.jpg"
+                    },
+                    {
+                        "name": "卢奇",
+                        "role": "邓小平",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b3f857cf47dcf4b758c65898b9537a85.jpg"
+                    },
+                    {
+                        "name": "于慧",
+                        "role": "卓琳",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9da90e443f215e08c27d720829755cc6.jpg"
+                    },
+                    {
+                        "name": "何建泽",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dd9b211e429243d5b4cb63b58d603b49.jpg"
+                    }
+                ],
+                "director": "雷献禾|卢奇",
+                "category": "剧情|传记",
+                "synopsis": "文革期间邓小平被革职下放江西，面临多重高压危机四伏，但始终保持坚毅、乐观，初心不改。为了他的安全，工厂师傅为他专门开辟了一条近道。三年零四个月，他每天沿着这条小道去工厂劳动，风雨无阻，后人称之为“邓小平小道”“小平小道”。他在坚持劳动的同时还要照顾瘫痪在床的大儿子，每天为他擦背翻身，终因劳累过度、营养不良晕倒车间。危急时分，车间女工以一碗红糖水救了他。他深入基层感知群众生活的疾苦，得出“贫穷不是社会主义”的伟大结论，为他复出后进行治理整顿、改革开放奠定了坚实的思想基础。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1646956800,
+                "timeType": 3,
+                "runtime": 105,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5920,
+                "name": "边缘行者",
+                "poster": "https://pic.maizuo.com/usr/movie/afdef208d7b72a950b164c007e8a0837.jpg",
+                "actors": [
+                    {
+                        "name": "谭耀文",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9bb5e7a0d1ae00cb64370802c0ca812c.jpg"
+                    },
+                    {
+                        "name": "黄明升",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a1b031211683411b6aea7288cdaa0233.jpg"
+                    },
+                    {
+                        "name": "任贤齐",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/42ff2bb4fc35cfc4c569cce29b1dc574.jpg"
+                    },
+                    {
+                        "name": "任达华",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/56087e1d22305c93dc9c30441f0b60e0.jpg"
+                    },
+                    {
+                        "name": "方中信",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cdd4b9595ba13f68a1d145902c811bbf.jpg"
+                    }
+                ],
+                "director": "黄明升",
+                "category": "犯罪|动作",
+                "synopsis": "1997年回归前夕，多方势力矛盾激化，暴力事件频发。巨变当前，黑帮龙头林耀昌（任达华 饰）对亲信阿骆（任贤齐 饰）委以帮派重任。多重身份的阿骆在黑白边缘行走，一场除暴行动正悄然掀开反杀的序幕。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港,中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1649980800,
+                "timeType": 3,
+                "runtime": 113,
+                "grade": "7.7",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5114,
+                "name": "一点就到家",
+                "poster": "https://pic.maizuo.com/usr/movie/d0d73a81cf3883c366870ba0e1a51baa.jpg",
+                "actors": [
+                    {
+                        "name": "许宏宇",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ebe5c5193ed00f6888d0c5fd8740294e.jpg"
+                    },
+                    {
+                        "name": "刘昊然",
+                        "role": "魏晋北",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d7e8cb46744914c72b30ec4685d3f7a6.jpg"
+                    },
+                    {
+                        "name": "彭昱畅",
+                        "role": "彭秀兵",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9627d1ebac2b4b12a06fd1623a62af99.jpg"
+                    },
+                    {
+                        "name": "尹昉",
+                        "role": "李绍群",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b8bb818942acd6a9208577004e12f119.jpg"
+                    }
+                ],
+                "director": "许宏宇",
+                "category": "剧情|喜剧",
+                "synopsis": "这是青春喜剧版的“中国合伙人”，魏晋北（刘昊然 饰）、彭秀兵（彭昱畅 饰）、李绍群（尹昉 饰）三个性格迥异的年轻人从大城市回到云南千年古寨，机缘巧合下合伙干电商，与古寨“格格不入”的他们用真诚改变了所有人，开启了一段纯真且荒诞的创业旅程。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1601510400,
+                "timeType": 3,
+                "runtime": 0,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5931,
+                "name": "致我的陌生恋人",
+                "poster": "https://pic.maizuo.com/usr/movie/923ddd6da070a705d533b48c9eb9996d.jpg",
+                "actors": [
+                    {
+                        "name": "雨果·热兰",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e96d642a2c613bb38010394e77770a9d.jpg"
+                    },
+                    {
+                        "name": "弗朗索瓦·西维尔",
+                        "role": "Raphaël Ramisse / Zoltan",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9f20b16cbf161f28ad90e21dcd57abd2.jpg"
+                    },
+                    {
+                        "name": "约瑟芬·约比",
+                        "role": "Olivia Marigny / Shadow",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b0b7ee851580bce62c00985cf1a1c061.jpg"
+                    },
+                    {
+                        "name": "本杰明·拉维赫尼",
+                        "role": "Félix / Gumpar",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/21ced090240371f98b1d92a842a2398a.jpg"
+                    },
+                    {
+                        "name": "卡米尔·勒鲁什",
+                        "role": "Mélanie",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f0a2cbd274934de44bc02568c751ea19.jpg"
+                    }
+                ],
+                "director": "雨果·热兰",
+                "category": "喜剧|爱情",
+                "synopsis": "穿过千千万万时间线，跨越漫长岁月去寻找曾经的爱人。只是平行时空，重新认识，她还会爱上他吗？一次激烈的争吵，一场意外的时空旅行，拉斐尔（弗朗索瓦·西维尔 饰）从一名成功的畅销书作家，变成平庸的中学语文老师；妻子奥莉薇亚（约瑟芬·约比  饰）从家庭主妇成为了星光熠熠的著名钢琴家。再相遇，身份颠倒，不再是夫妻，平行时空又一次浪漫邂逅，拉斐尔能否守住最初的爱情？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "法国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1649894400,
+                "timeType": 3,
+                "runtime": 118,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5904,
+                "name": "珠峰队长",
+                "poster": "https://pic.maizuo.com/usr/movie/e50ab3429a7a99964bd0307103241b3f.jpg",
+                "actors": [
+                    {
+                        "name": "苏拉王平",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/05be45da838f393a34ed61a92821187d.jpg"
+                    },
+                    {
+                        "name": "崔舟萍",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e6c97b4b19e0a43359968c51af9716f6.jpg"
+                    },
+                    {
+                        "name": "小溪",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/965e2b23b595d7716edf8709bf74a60f.jpg"
+                    },
+                    {
+                        "name": "刘萍",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fd01a35554cdee9a66bc9c213cb7908c.jpg"
+                    },
+                    {
+                        "name": "吴曦",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e2ff16e4fe08b281c109c59c21d4909e.jpg"
+                    }
+                ],
+                "director": "吴曦",
+                "category": "纪录片",
+                "synopsis": "每天生活两点一线的白领、卖掉自家小店的店主、背负沉重KPI的销售、在成功与失败间挣扎的创业者……8个普通人，带着各自的故事与梦想，在民间专业高山向导、队长苏拉王平的带领下，踏上了憧憬已久的珠峰之旅，也许，也是一次死亡之旅。他们在尼泊尔的珠峰南坡集结出发，穿越裂缝深不见底的恐怖冰川，攀上高达千米的蓝色冰壁，爬过山体岩石断面的“黄带”，朝着世界之巅一步步靠近。这支起初被外国队伍“看扁”的中国民间登山队，面对“窗口期”极短的恶劣天气和可能发生的冲顶“大堵车”，能否成为2019年全球第一支登顶珠峰的团队？本片是中国首部沉浸式体验攀登珠峰全程的电影，也是华语电影史上“最高难度”的纪录片——创下在8470米以上最高海拔完成无人机起飞航拍的新纪录。观众将跟随镜头“空降”珠峰攀登现场，与这群不甘平凡的普通人一起，为心中的热爱疯狂一次。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1652400000,
+                "timeType": 3,
+                "runtime": 83,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5859,
+                "name": "长津湖之水门桥",
+                "poster": "https://pic.maizuo.com/usr/movie/89689a6d36e155b697ed3e35a6c1da12.jpg",
+                "actors": [
+                    {
+                        "name": "易烊千玺",
+                        "role": "伍万里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b4b9f6f7564b4068aec8d37036459e.jpg"
+                    },
+                    {
+                        "name": "徐克",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/167312fd73483b00efa169c29663d403.jpg"
+                    },
+                    {
+                        "name": "林超贤",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4033b234b72900ee8859fc739afe7e23.jpg"
+                    },
+                    {
+                        "name": "吴京",
+                        "role": "伍千里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0a8f4a063cce18afa5103a26577c452b.jpg"
+                    },
+                    {
+                        "name": "陈凯歌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7c4f4a21c2bd1fea583c0abbb3e3a137.jpg"
+                    }
+                ],
+                "director": "陈凯歌|徐克|林超贤",
+                "category": "剧情|历史|战争",
+                "synopsis": "电影《长津湖之水门桥》以抗美援朝战争第二次战役中的长津湖战役为背景，讲述了在结束了新兴里和下碣隅里的战斗之后，七连战士们又接到了更艰巨的任务……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1643673600,
+                "timeType": 3,
+                "runtime": 149,
+                "grade": "7.4",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5936,
+                "name": "我是真的讨厌异地恋",
+                "poster": "https://pic.maizuo.com/usr/movie/10e7be842fa87aae8f20c565ede789a1.jpg",
+                "actors": [
+                    {
+                        "name": "吴洋",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/82cbd1330d86c9976b8b15f50bf187d4.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "周男燊",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/74a24ea07e374455e71dcbcbdcfe32c0.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "任敏",
+                        "role": "赵一一",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/726e29fece19cb0084c244fab87d2ade.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "辛云来",
+                        "role": "许嘉树",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d131e61678ef5a283ffab7f471876337.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "李孝谦",
+                        "role": "李唐",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1851abbf262ae8b582812961a0e16435.jpg@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "吴洋|周男燊",
+                "category": "爱情|青春|喜剧",
+                "synopsis": "要相信：熬过异地，就是一生。故事围绕赵一一（任敏 饰）和许嘉树（辛云来 饰）展开，高考之后，赵一一终于向暗恋多年的许嘉树表白，却阴差阳错开启一场异地恋。他们坚信：熬过异地，就是一生。可远距离恋爱的天然阻碍考验着他们，明明相爱，却不断缺席对方的生活。赛赫（陈宥维 饰）的出现以及闺蜜乔乔（周雨彤 饰）和李唐（李孝谦 饰）一波三折的爱情都让赵一一感触良多。当异地恋升级为异国恋，是继续坚持，还是一别两宽，各自成长的二人不得不面对自己内心的答案…",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1651190400,
+                "timeType": 3,
+                "runtime": 100,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5938,
+                "name": "青花马",
+                "poster": "https://pic.maizuo.com/usr/movie/e187461623b040f3749077efea73212b.jpg",
+                "actors": [
+                    {
+                        "name": "唐突",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/06f11da9f1fcc4d27ebd9f8367515e00.png@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "次真",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1ce1a3deb8304651a9b77ac646eec43e.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "完颜羽珊",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/af659d112146b7155a4b803ee7831177.jpg@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "多杰吉",
+                        "role": "格桑梅朵",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ecbbef6272d8908c9bcb3c9d7caf13a.png@1246w_1246h_1l_0e"
+                    },
+                    {
+                        "name": "段海秦",
+                        "role": "强巴老人",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/48165241e7e6f584ac244eeac93aa5a8.png@1246w_1246h_1l_0e"
+                    }
+                ],
+                "director": "唐突",
+                "category": "剧情",
+                "synopsis": "金银滩小学请来了会唱歌的小丹珠，但是家长和学生们都不喜欢这种国家非遗文化遗产的藏族情歌“拉伊”，想唱流行歌曲，小丹珠被赶走了。城里来的漂亮的支教老师叶子，被小丹珠的歌声所吸引力，小丹珠也爱上了叶子，没想到叶子的妈妈正是小丹珠父亲几十年前的恋人......爱上了同父异母的亲哥哥，是真的吗？这里会有什么秘密呀？",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1650585600,
+                "timeType": 3,
+                "runtime": 90,
+                "grade": "7.4",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 9
+    },
+    "msg": "ok"
+}
