@@ -27,14 +27,14 @@ export default class Cinema extends Component {
                 list: res.data.data.cinemas
             })
             console.log(this.state.list)
-            new BetterScroll('.betterScrollWrap')
+            new BetterScroll('#betterScrollWrap')
         })
     }
     
     render() {
         return (
             <div>
-                <div className='betterScrollWrap' style={{overflow:"hidden",height:'100%',backgroundColor:'yellow'}}>
+                <div id='betterScrollWrap' style={{overflow:"hidden",height:'200px',backgroundColor:'yellow'}}>
                     <div className='betterScrollContent'>
                         {
                             this.state.list.map(item => 

@@ -16,14 +16,14 @@ export default class App extends Component {
         this.setState({
             list: list
         },()=>{
-            new BetterScroll('.betterScrollWrap')
+            new BetterScroll('#betterScrollWrap')
         })
     }
     render() {
         return (
             <div>
                 <button onClick={() => this.getData()}>click</button>
-                <div className='betterScrollWrap' style={{overflow:'hidden',height:'200px',backgroundColor:'yellow'}}>
+                <div id='betterScrollWrap' style={{overflow:'hidden',height:'200px',backgroundColor:'yellow'}}>
                     <ul>
                         {
                             this.state.list.map(item => {
