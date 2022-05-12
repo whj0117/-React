@@ -8,29 +8,29 @@
 import React, { Component } from 'react'
 
 class Box extends Component {
-    componentDidUpdate(prevProps, prevState) { console.log('componentDidUpdate')} 
-    shouldComponentUpdate(nextProps,nextState){
-        if(this.props.current === this.props.index || nextProps.current === nextProps.index){
+    componentDidUpdate() { console.log('componentDidUpdate') }
+    shouldComponentUpdate(nextProps, nextState) {
+        if (this.props.current === this.props.index || nextProps.current === nextProps.index) {
             return true
         }
         return false
     }
     render() {
-        return <div style={{float: "left", width: '100px', height: '100px',margin:'10px', textAlign:'center',lineHeight:'100px', border: this.props.current === this.props.index ? '1px solid #000' : '1px solid #09c' }}>{this.props.list}</div>
+        return <div style={{ float: "left", width: '100px', height: '100px', margin: '10px', textAlign: 'center', lineHeight: '100px', border: this.props.current === this.props.index ? '1px solid #000' : '1px solid #09c' }}>{this.props.list}</div>
     }
 }
 
 export default class App extends Component {
     state = {
         list: ['00', '01', '02', '03', '04', '05', '06', '07', '08', '09', '10'],
-        current:0
+        current: 0
     }
     render() {
         return (
             <div>
-                <input type='number' onChange={(evt)=>{
+                <input type='number' onChange={(evt) => {
                     this.setState({
-                        current:Number(evt.target.value)
+                        current: Number(evt.target.value)
                     })
                 }} />
                 <div style={{ overflow: 'hidden' }}>

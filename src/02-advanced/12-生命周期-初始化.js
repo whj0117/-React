@@ -11,9 +11,9 @@
  * componentDidMount:成功render并渲染完成真实DOM之后触发，可以修改DOM
  * 
  * 2、运行中阶段
- * componentWillReceiveProps:父组件修改属性触发
+ * UNSAFE_componentWillReceiveProps:父组件修改属性触发
  * shouldComponentUpdate:返回false会阻止render调用
- * componentWillUpdate:不能修改属性和状态
+ * UNSAFE_componentWillUpdate:不能修改属性和状态
  * render:只能访问this.props和this.state，不允许修改状态和DOM输出
  * componentDidMount:成功render并渲染完成真实DOM之后触发，可以修改DOM
  * 
