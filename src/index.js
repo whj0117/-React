@@ -8,7 +8,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './02-advanced/17-生命周期-更新阶段3';
+import App from './02-advanced/18-生命周期-更新阶段3-案例';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
