@@ -19,8 +19,15 @@ export default class App extends Component {
         //return false 阻止更新
         console.log(nextProps,nextState)
         return !(nextState.myname === this.state.myname)
+
+        //或者
+        // if(JSON.stringify(this.state) !== JSON.stringify(nextState)){
+        //     return true
+        // }
+
+        // return false
     }
-    
+
     render() {
         return (
             <div>
