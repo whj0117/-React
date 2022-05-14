@@ -7,7 +7,7 @@
  */
 import React, { Component } from 'react'
 import Swiper,{Navigation,Pagination} from 'swiper'
-import 'swiper/css'
+import 'swiper/css/bundle'
 
 Swiper.use([Navigation,Pagination])
 
@@ -26,18 +26,13 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                <div className="swiper">
+                <div className="swiper" style={{height:'200px',backgroundColor:"yellow"}}>
                     <div className="swiper-wrapper">
                         {
                             this.state.list.map(item => <div className='swiper-slide' key={item}>{item}</div>)
                         }
                     </div>
                     <div className="swiper-pagination"></div>
-
-                    <div className="swiper-button-prev"></div>
-                    <div className="swiper-button-next"></div>
-
-                    <div className="swiper-scrollbar"></div>
                 </div>
             </div>
         )
