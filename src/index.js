@@ -8,7 +8,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './03-hooks/08-useCallback2';
+import App from './03-hooks/09-useMemo';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
